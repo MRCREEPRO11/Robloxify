@@ -20,15 +20,17 @@ Share the source code, as long as you provide appropriate credit and do NOT use 
 
 - For more details, see: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-# Version 1.1 | Beta [29/01/2025]
+# Version 1.2 | Stable [29/01/2025]
 
 #### 🛠️What's New?:
-- Sorry letter is moved to bottom
+- User profile accent color changer now work
+- centering improved
+- catalog bug fixed
+- added support to new chart
 
 #### 🤔Known Bug:
 - Avatar list get bugged when scrolling down (Not transparent)
 - Ropro "Your Most Played" Is not rounded or not perfectly squared (let's just say that)
-- Yes, Avatar profile accent changer does not work im to lazy
 
 #### 💡Requirements:
 - Roblox Dark mode
