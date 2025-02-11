@@ -47,6 +47,4 @@ Share the source code, as long as you provide appropriate credit and do NOT use 
   > No & yes, It's not a copy but a modification of the style since I used it yes, but I saw a lot 
     of bugs, and I just wanted to customize to my liking and add things that I like.
 
-‏‏‎‏‏‎### ▶ Sorry Letter 📤(2025.10.02):
-- Dear Gallifory, I'm sorry for stealing some lines of your source code for your style "Mikey's Mod", I'm sorry that I didn't give credit to you sir, please don't terminate me as I have learned my lesson. ‎
-‏‏‎- Sincerely, MRCREEP
+‎- Sincerely, MRCREEP
